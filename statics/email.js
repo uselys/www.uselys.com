@@ -1,1 +1,0 @@
-﻿document.writeln("<a href=\'mailto:service@panyh.com\'>service@panyh.com</a>");
